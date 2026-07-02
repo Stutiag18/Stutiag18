@@ -1,7 +1,62 @@
-Hi, I’m Stuti Agrawal, a Computer Science undergraduate and aspiring Software Engineer. I enjoy building full-stack applications and strengthening my fundamentals in backend development and data structures & algorithms.
-I like learning by creating real projects, writing clean code, and continuously improving my problem-solving skills to become an industry-ready developer.
+# Hi there 👋, I'm Stuti Agrawal
 
-<!---
-Stutiag18/Stutiag18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Software Engineer | Backend Developer | FinTech Enthusiast
+
+I'm a Software Engineer passionate about building scalable backend systems, distributed applications, and payment infrastructure. I enjoy solving complex engineering problems and continuously learning new technologies.
+
+## 🚀 About Me
+
+* 🎓 B.Tech in Computer Science (2026)
+* 💼 Former Software Development Engineer Intern at Razorpay
+* 🌱 Currently exploring Distributed Systems, System Design and AI Agents
+* 💡 Interested in Backend Engineering, FinTech, and High-Scale Systems
+* ⚡ I enjoy turning ideas into production-ready software
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java (DSA and System Design)
+* Golang
+* TypeScript
+* SQL
+
+### Backend
+
+* gRPC
+* REST APIs
+* Microservices
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+
+### Messaging & Caching
+
+* Apache Kafka
+* Redis
+
+### DevOps & Tools
+
+* Docker
+* Git
+* GitHub
+* Postman
+
+## 📌 What I'm Working On
+
+* Building scalable backend applications
+* Learning advanced System Design concepts
+* Exploring AI-powered developer tools
+* Practicing Data Structures & Algorithms
+
+## 📫 Connect with Me
+
+* LinkedIn: www.linkedin.com/in/stuti-agrawal-203139289
+* Email: agrawalstuti18@gmail.com
+
+---
+
+> *"Code for scale. Design for reliability. Learn continuously."*
